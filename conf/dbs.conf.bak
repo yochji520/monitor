@@ -2,7 +2,7 @@
 #
 #配置管理库连接信息
 #
-HOST="x"
+HOST="10.81.54.127"
 PORT="3306"
 USER="dba"
 PASSWD="tuC3ehYIocRcBjb4"
